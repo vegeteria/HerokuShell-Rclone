@@ -1,6 +1,6 @@
 #!/bin/bash
 
-npm install
+
 
 if [[ -n $RCLONE_CONFIG_BASE64 ]]; then
 	echo "Rclone config detected"
