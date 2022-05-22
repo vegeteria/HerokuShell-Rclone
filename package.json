@@ -22,6 +22,7 @@
     "node-termios": "0.0.13",
     "terminal.js": "1.0.9"
   },
+  "start": "server.js",
   "optionalDependencies": {
     "https-proxy-agent": "^2.2.3",
     "socks-proxy-agent": "^4.0.1"
