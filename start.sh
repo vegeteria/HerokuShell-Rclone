@@ -16,4 +16,3 @@ fi
 
 echo "SETUP COMPLETED"
 
-npm start
